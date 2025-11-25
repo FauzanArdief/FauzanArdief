@@ -4,3 +4,5 @@
 
 - Re-read older summaries to see overall direction.
 
+- Use this file as a quick snapshot of progress.
+
