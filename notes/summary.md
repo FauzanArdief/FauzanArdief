@@ -6,3 +6,5 @@
 
 - Use this file as a quick snapshot of progress.
 
+- Let the content grow slowly and steadily.
+
