@@ -8,3 +8,5 @@
 
 - Let the content grow slowly and steadily.
 
+- Keep short summaries of what feels important.
+
