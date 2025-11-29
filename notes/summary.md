@@ -10,3 +10,5 @@
 
 - Keep short summaries of what feels important.
 
+- Capture outcomes rather than every small detail.
+
