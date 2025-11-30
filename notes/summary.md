@@ -12,3 +12,5 @@
 
 - Capture outcomes rather than every small detail.
 
+- Note what worked well and what did not.
+
