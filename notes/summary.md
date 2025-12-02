@@ -16,3 +16,5 @@
 
 - Highlight ideas that might be worth revisiting.
 
+- Avoid long paragraphs, prefer direct bullet points.
+
