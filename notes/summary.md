@@ -18,3 +18,5 @@
 
 - Avoid long paragraphs, prefer direct bullet points.
 
+- Use this file as a quick snapshot of progress.
+
