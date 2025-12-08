@@ -22,3 +22,7 @@
 
 - Let the content grow slowly and steadily.
 
+
+Consider adding a README.md file to outline project goals and setup instructions.
+Explore adding unit tests for core functionality.
+
