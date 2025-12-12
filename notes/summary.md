@@ -35,3 +35,7 @@ Explore integrating a CI/CD pipeline for automated testing and deployment.
 
 Consider adding documentation for key components and setup instructions.
 
+
+Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
+Explore licensing options for the repository.
+
