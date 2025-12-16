@@ -51,3 +51,7 @@ Explore adding automated testing (e.g., unit tests, integration tests) to ensure
 Explore adding a CI/CD pipeline for automated testing and deployment.
 Consider implementing robust error handling and logging mechanisms for better debugging.
 
+
+Consider adding a section for personal projects or a portfolio showcase.
+Explore contributing to open-source projects to gain experience and showcase skills.
+
