@@ -55,3 +55,7 @@ Consider implementing robust error handling and logging mechanisms for better de
 Consider adding a section for personal projects or a portfolio showcase.
 Explore contributing to open-source projects to gain experience and showcase skills.
 
+
+Consider adding a `CONTRIBUTING.md` file outlining contribution guidelines.
+Explore adding a README badge for project status or build success.
+
