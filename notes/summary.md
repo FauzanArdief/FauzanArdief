@@ -59,3 +59,8 @@ Explore contributing to open-source projects to gain experience and showcase ski
 Consider adding a `CONTRIBUTING.md` file outlining contribution guidelines.
 Explore adding a README badge for project status or build success.
 
+
+Consider adding a `.gitignore` file to exclude temporary files, build artifacts, and sensitive information from version control.
+
+Explore using GitHub Actions for automated testing, linting, or deployment to streamline the development workflow.
+
