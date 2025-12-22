@@ -76,3 +76,7 @@ Explore using GitHub Actions for automated testing, linting, or deployment to st
 Consider adding a README.md to explain the purpose of the repository and its contents.
 Explore using a `.gitignore` file to exclude unnecessary files from version control.
 
+
+Consider adding a README.md file with a project description, setup instructions, and usage examples.
+Explore contributing guidelines for community involvement.
+
