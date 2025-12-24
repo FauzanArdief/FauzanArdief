@@ -80,3 +80,8 @@ Explore using a `.gitignore` file to exclude unnecessary files from version cont
 Consider adding a README.md file with a project description, setup instructions, and usage examples.
 Explore contributing guidelines for community involvement.
 
+
+Consider adding a README.md with project descriptions and contribution guidelines.
+
+Explore adding automated testing (e.g., unit tests, integration tests) to ensure code quality and stability.
+
