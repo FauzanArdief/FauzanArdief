@@ -85,3 +85,7 @@ Consider adding a README.md with project descriptions and contribution guideline
 
 Explore adding automated testing (e.g., unit tests, integration tests) to ensure code quality and stability.
 
+
+- Consider adding a `CONTRIBUTING.md` file to guide potential collaborators.
+- A `LICENSE` file is essential for outlining usage and distribution terms.
+
