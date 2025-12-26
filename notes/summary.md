@@ -89,3 +89,7 @@ Explore adding automated testing (e.g., unit tests, integration tests) to ensure
 - Consider adding a `CONTRIBUTING.md` file to guide potential collaborators.
 - A `LICENSE` file is essential for outlining usage and distribution terms.
 
+
+*   Consider adding a README.md file to each project explaining its purpose, setup, and usage.
+*   Explore implementing a CI/CD pipeline for automated testing and deployment.
+
