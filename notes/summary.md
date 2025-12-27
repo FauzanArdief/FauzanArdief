@@ -97,3 +97,7 @@ Explore adding automated testing (e.g., unit tests, integration tests) to ensure
 Consider adding a README.md explaining the purpose of the repository and the projects within it.
 Organize projects into subdirectories for better structure if the repository grows.
 
+
+Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
+Explore adding a `LICENSE` file to specify usage and distribution terms.
+
