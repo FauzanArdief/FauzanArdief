@@ -93,3 +93,7 @@ Explore adding automated testing (e.g., unit tests, integration tests) to ensure
 *   Consider adding a README.md file to each project explaining its purpose, setup, and usage.
 *   Explore implementing a CI/CD pipeline for automated testing and deployment.
 
+
+Consider adding a README.md explaining the purpose of the repository and the projects within it.
+Organize projects into subdirectories for better structure if the repository grows.
+
