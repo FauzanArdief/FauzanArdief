@@ -105,3 +105,7 @@ Explore adding a `LICENSE` file to specify usage and distribution terms.
 Consider adding a README.md with project descriptions and setup instructions.
 Explore using GitHub Actions for automated testing and deployment.
 
+
+Consider adding a CONTRIBUTING.md file to outline contribution guidelines.
+Explore adding unit tests for key functionalities.
+
