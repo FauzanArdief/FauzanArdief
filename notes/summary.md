@@ -113,3 +113,7 @@ Explore adding unit tests for key functionalities.
 Consider adding a README with a project overview and setup instructions.
 Explore contribution guidelines for potential collaborators.
 
+
+*   Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
+*   Explore using GitHub Actions for automated testing or deployment.
+
