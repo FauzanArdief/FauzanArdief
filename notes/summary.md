@@ -117,3 +117,7 @@ Explore contribution guidelines for potential collaborators.
 *   Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
 *   Explore using GitHub Actions for automated testing or deployment.
 
+
+- Consider adding a `.gitignore` file to exclude build artifacts and dependency directories.
+- Explore adding a `README.md` file to explain the purpose and usage of the repository.
+
