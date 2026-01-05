@@ -125,3 +125,8 @@ Explore contribution guidelines for potential collaborators.
 Consider adding a README.md file that briefly describes the purpose of the repository and its contents.
 Explore adding contribution guidelines if you plan to collaborate with others on this repository.
 
+
+Consider adding a README.md file that clearly outlines the purpose of the repository, its contents, and how to use or run any included projects.
+
+Explore the possibility of creating a CONTRIBUTING.md file to guide potential collaborators on how to contribute to the repository.
+
