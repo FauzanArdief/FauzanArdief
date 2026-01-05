@@ -121,3 +121,7 @@ Explore contribution guidelines for potential collaborators.
 - Consider adding a `.gitignore` file to exclude build artifacts and dependency directories.
 - Explore adding a `README.md` file to explain the purpose and usage of the repository.
 
+
+Consider adding a README.md file that briefly describes the purpose of the repository and its contents.
+Explore adding contribution guidelines if you plan to collaborate with others on this repository.
+
