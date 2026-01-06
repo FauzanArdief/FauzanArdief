@@ -130,3 +130,7 @@ Consider adding a README.md file that clearly outlines the purpose of the reposi
 
 Explore the possibility of creating a CONTRIBUTING.md file to guide potential collaborators on how to contribute to the repository.
 
+
+* **Contribution Guidelines:** Clearly outline how others can contribute, including pull request process, coding standards, and bug reporting.
+* **CI/CD Integration:** Implement automated testing, building, and deployment pipelines to improve efficiency and reliability.
+
