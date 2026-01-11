@@ -139,3 +139,7 @@ This repo could be a great place to showcase personal projects and contributions
 
 Consider adding sections for different project types or skill sets to make it easier for visitors to navigate and understand your expertise.
 
+
+*   Consider adding a `CONTRIBUTING.md` to outline contribution guidelines.
+*   Explore using GitHub Actions for automated testing and deployment.
+
