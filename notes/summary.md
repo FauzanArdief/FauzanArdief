@@ -143,3 +143,7 @@ Consider adding sections for different project types or skill sets to make it ea
 *   Consider adding a `CONTRIBUTING.md` to outline contribution guidelines.
 *   Explore using GitHub Actions for automated testing and deployment.
 
+
+- Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
+- Explore CI/CD pipeline integration for automated testing and deployment.
+
