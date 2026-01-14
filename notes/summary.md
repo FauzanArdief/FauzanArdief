@@ -151,3 +151,7 @@ Consider adding sections for different project types or skill sets to make it ea
 Consider adding a README.md file to explain the purpose of the repository and its contents.
 Include a `.gitignore` file to exclude unnecessary files (e.g., temporary files, build artifacts) from version control.
 
+
+*   Consider adding a `CONTRIBUTING.md` file outlining contribution guidelines.
+*   Explore GitHub Actions for automated CI/CD pipelines.
+
