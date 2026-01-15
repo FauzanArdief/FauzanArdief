@@ -155,3 +155,7 @@ Include a `.gitignore` file to exclude unnecessary files (e.g., temporary files,
 *   Consider adding a `CONTRIBUTING.md` file outlining contribution guidelines.
 *   Explore GitHub Actions for automated CI/CD pipelines.
 
+
+*   Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
+*   Explore integrating CI/CD pipelines for automated testing and deployment.
+
