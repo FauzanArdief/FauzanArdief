@@ -159,3 +159,7 @@ Include a `.gitignore` file to exclude unnecessary files (e.g., temporary files,
 *   Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
 *   Explore integrating CI/CD pipelines for automated testing and deployment.
 
+
+*   Consider adding contribution guidelines.
+*   Explore creating a simple demo or example project that showcases your skills.
+
