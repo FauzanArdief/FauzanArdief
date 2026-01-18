@@ -163,3 +163,8 @@ Include a `.gitignore` file to exclude unnecessary files (e.g., temporary files,
 *   Consider adding contribution guidelines.
 *   Explore creating a simple demo or example project that showcases your skills.
 
+
+Consider adding a README.md that clearly explains the purpose of the repository and how to use the code within.
+
+Explore the possibility of adding unit tests to ensure the functionality of the code remains stable as it evolves.
+
