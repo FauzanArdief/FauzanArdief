@@ -168,3 +168,8 @@ Consider adding a README.md that clearly explains the purpose of the repository 
 
 Explore the possibility of adding unit tests to ensure the functionality of the code remains stable as it evolves.
 
+
+Ensure clear README with project descriptions and setup instructions.
+
+Consider adding CI/CD for automated testing and deployment.
+
