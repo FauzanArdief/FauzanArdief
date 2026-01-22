@@ -173,3 +173,7 @@ Ensure clear README with project descriptions and setup instructions.
 
 Consider adding CI/CD for automated testing and deployment.
 
+
+*   Consider adding a `CONTRIBUTING.md` to guide potential contributors.
+*   Explore adding automated testing (e.g., unit, integration) to ensure code quality and stability.
+
