@@ -177,3 +177,8 @@ Consider adding CI/CD for automated testing and deployment.
 *   Consider adding a `CONTRIBUTING.md` to guide potential contributors.
 *   Explore adding automated testing (e.g., unit, integration) to ensure code quality and stability.
 
+
+*   **Focus on a specific project for a portfolio highlight.** Pick one project (e.g., the e-commerce app) and ensure it's well-documented, has clear instructions, and showcases your best work.
+
+*   **Consider a README template.** For consistency across projects, create or adopt a standard README structure that includes sections for installation, usage, features, and contribution.
+
