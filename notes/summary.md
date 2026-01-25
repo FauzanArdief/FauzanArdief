@@ -186,3 +186,7 @@ Consider adding CI/CD for automated testing and deployment.
 Consider adding CI/CD pipelines for automated testing and deployment.
 Explore making key configuration settings configurable via environment variables.
 
+
+*   Consider adding a README.md file with project descriptions and setup instructions.
+*   Explore incorporating CI/CD pipelines for automated testing and deployment.
+
