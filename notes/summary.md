@@ -182,3 +182,7 @@ Consider adding CI/CD for automated testing and deployment.
 
 *   **Consider a README template.** For consistency across projects, create or adopt a standard README structure that includes sections for installation, usage, features, and contribution.
 
+
+Consider adding CI/CD pipelines for automated testing and deployment.
+Explore making key configuration settings configurable via environment variables.
+
