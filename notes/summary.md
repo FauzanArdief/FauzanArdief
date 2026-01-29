@@ -195,3 +195,7 @@ Consider adding a README.md file to each project explaining its purpose, setup, 
 
 Explore the possibility of contributing to open-source projects within your areas of interest to gain experience and network.
 
+
+*   Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
+*   Explore setting up a GitHub Actions workflow for automated testing and CI/CD.
+
